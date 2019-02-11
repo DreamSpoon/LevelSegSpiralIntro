@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="12" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" name="MegaMan2TileSetV2" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="28" columns="4">
+  <image source="MegaMan2TileSetV2.png" width="72" height="126"/>
+ </tileset>
+ <layer id="6" name="Tile Layer 1" width="12" height="9">
+  <data encoding="base64" compression="zlib">
+   eJwTYmBgEABiQTRaCIrRxUSQ5ISQ5ESwyIH4EkhyyPISWOQksGB8coMR80OxMBIbH4aFnzCOeECnAV7tCJ0=
+  </data>
+ </layer>
+</map>

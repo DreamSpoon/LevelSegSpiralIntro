@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="TMNT1_1TileSetV1" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="90" columns="9">
+  <image source="TMNT1_1TileSetV1.png" width="162" height="180"/>
+ </tileset>
+ <layer id="2" name="Tile Layer 1" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJyd0McKwkAUheEQK4qCoom9BOwFLGBDF26EWN//afwDZzEM2eji45A5uRNyfcdxKqiihjrSKGGFtdG30EYBRZQxxAhjTDHTfBc77I1+gSUC9DHQXa5mOsjGpN2fcdFsQn2USWXKejb7DHL6fqD/cHXWwBUefGywtfqmsQ9P90R9DyfcMNFeDjgafR5zYx/Re3f1LzzwRqjzMKZ/Wv1HO/k34/b9S34BA9IRnQ==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="DuckTales1TileSetV1" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="20" columns="4">
+  <image source="DuckTales1TileSetV1.png" width="72" height="90"/>
+ </tileset>
+ <layer id="2" name="Tile Layer 1" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJylzt0KgCAMBeCVZZaVWL3/s3YEB2OMMLz4OP7soIGIFlhhhKExJ5ghCN6YdWpv9WSf/+LqbDmLsMFeM3709brkYfjTPyGp5LkseGPtjW4Sc1cD632+uzs9nV5JmwaG
+  </data>
+ </layer>
+</map>

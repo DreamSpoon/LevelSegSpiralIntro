@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="17" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" name="MilonsSC1TileSetV1" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="100" columns="10">
+  <image source="MilonsSC1TileSetV1.png" width="180" height="180"/>
+ </tileset>
+ <layer id="6" name="Tile Layer 1" width="17" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYETDnEDMB8S8QMwDpXmh4sxY1GPDQkAsDMQiQCwKxGJQMySINANklwwQSwOxLBotR6RbQG5wwYOJMQOkJgSI9YDYFAmHQGli/ANyRyRUfRgQhwNxBFTMB487koA4GckdiVB3RANxDBDHQsVwuSNlkGAAuZgYeA==
+  </data>
+ </layer>
+</map>

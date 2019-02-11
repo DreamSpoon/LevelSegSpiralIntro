@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="13" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" name="SMB2_1-1TilesSetV1" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="15" columns="3">
+  <image source="SMB2_1-1TilesSetV1.png" width="54" height="90"/>
+ </tileset>
+ <layer id="4" name="Tile Layer 1" width="13" height="9" opacity="0.8">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYARiZihNCobp4YVidHkmHHpYgJgVitnQ1HLh0MMOxBxQzImmlhZ6uMnQw4OmhxdNDx8ZmJ8MDACwFwLh
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="13" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="1">
+ <tileset firstgid="1" name="MetroidTilesetV4" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="128" columns="16">
+  <image source="MetroidTilesetV4.png" width="288" height="144"/>
+ </tileset>
+ <layer id="7" name="Tile Layer 1" width="13" height="9">
+  <data encoding="base64" compression="zlib">
+   eJwrYWBgKEHDpljEkOUYRzFZ2IgCXIiEjZBoIyziAPKWDII=
+  </data>
+ </layer>
+</map>

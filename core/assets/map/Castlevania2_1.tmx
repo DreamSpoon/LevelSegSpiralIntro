@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="Castlevania2TileSetV2" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="20" columns="4">
+  <image source="Castlevania2TileSetV2.png" width="72" height="90"/>
+ </tileset>
+ <layer id="2" name="Tile Layer 1" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJylx8kRgDAMxVAbCGsStv57RQc3gP/hjUZuZhMKPPz5EXN0SPyCNbolfschtKIJ7TiFXqJb9OIR+gFdSwZx
+  </data>
+ </layer>
+</map>

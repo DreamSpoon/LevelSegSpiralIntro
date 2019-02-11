@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="GhostsNGoblins1TileSetV1" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="99" columns="9">
+  <image source="GhostsNGoblins1TileSetV1.png" width="162" height="198"/>
+ </tileset>
+ <layer id="2" name="Tile Layer 1" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYKQD5qJArwAQCwKxEAF1vDjEpYBYGohlgFgWhxoRIBYFYjEc5mITR8byQKwAxIpo4nJArIRFHIY1gFgLjdZBYmtikddCYhtRiGMpxAA+Eg2r
+  </data>
+ </layer>
+</map>

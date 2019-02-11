@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" name="Contra1TileSetV2" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="63" columns="7">
+  <image source="Contra1TileSetV2.png" width="126" height="162"/>
+ </tileset>
+ <layer id="2" name="Tile Layer 1" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJx9ztkKwkAMheHRtnNh9cIV6gLuWtyg9v2fzb+QgRBiLz5OQ0/CxBBCjoGRSUaThdNN/UzNhYhqJ93Izf+h2RmhxBgTZ9Z37DummGGOBZZmXv15f1JhjQ22Mu/UbPt7HMRR8tRzX/e73hU33FHL96NnX/e73hkXJ9/4OGl7T7ycbPA1Wqf3AwEtCsg=
+  </data>
+ </layer>
+</map>

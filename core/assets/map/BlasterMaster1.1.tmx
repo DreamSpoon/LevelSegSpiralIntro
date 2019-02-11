@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="BlasterMaster1TilesSetV1" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="42" columns="6">
+  <image source="BlasterMaster1TilesSetV1.png" width="108" height="126"/>
+ </tileset>
+ <layer id="2" name="Tile Layer 1" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJyl0EkOwjAQRFFLQFYQZjBmJhCG+x+Qb6kstazeZfHU9a2s0oQQRhhjgilmaDGXRdWt3pZoHCussZGt6bJ32CPioBtNJxydLjuqz7jonkwnp+ud3XDXvZpOTtc76/DUfZhOTte70/96Sfl/Pd746N223fnb70C/gf4I4RA4
+  </data>
+ </layer>
+</map>

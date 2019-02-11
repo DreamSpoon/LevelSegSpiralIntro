@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="16" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="Batman1TileSetV1" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="120" columns="10">
+  <image source="Batman1TileSetV1.png" width="180" height="216"/>
+ </tileset>
+ <layer id="2" name="Tile Layer 1" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjZmBgYCYBK5CoHh2rovEFgFgYSgtCMTY+Lv12QOwApe2hGBsfpDYaiB2B2AmInZHM8IHSfkDsD8QBOPiBSPYHAXEcmv4III4E4igcfBCOgdKxQJwPxEVAnAnEqUCcBsTpQJyBg58FxNlAnAPEuVBzSijElMQlCAMAX/cZqg==
+  </data>
+ </layer>
+</map>
